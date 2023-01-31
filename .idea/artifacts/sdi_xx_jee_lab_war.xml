@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdi-xx-jee-lab:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sdi-xx-jee-lab</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sdi-xx-jee-lab-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sdi-xx-jee-lab:war exploded" />
+    </root>
+  </artifact>
+</component>
